@@ -19,11 +19,7 @@ class Triangle
     else
       return :isosceles
     end
-      
     
-  if
-    
-  
   end
   
   
