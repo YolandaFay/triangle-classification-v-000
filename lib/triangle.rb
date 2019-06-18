@@ -20,7 +20,7 @@ class Triangle
   
     def message 
       "I'm sorry, that is not a valid triangle!"
-  
+    end 
   end
   
 end
