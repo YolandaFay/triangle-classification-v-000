@@ -1,6 +1,6 @@
 class Triangle
   
-  attr_accessor :legone, :legtwo, :legthree
+  attr_accessor :side_one, :side_two, :side_three
   
   
   
