@@ -18,6 +18,7 @@ class Triangle
       return :scalene
     else
       return :isosceles
+    end
       
     
   if
